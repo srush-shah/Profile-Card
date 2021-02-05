@@ -69,7 +69,7 @@ body {
 }
 @media screen and (min-width: 1440px) {
   #card {
-    margin-top: 25%;
+    margin-top: 15%;
     width: 25%;
   }
   .bg-pattern-card {
